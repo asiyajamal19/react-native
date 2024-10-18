@@ -1,2 +1,2 @@
 # My Hello World React Native 1st Application
-<img src = './localhost_8081_(iPhone 12 Pro).png' width="50%" />
+<img src = 'react native app.png' width="50%" />
